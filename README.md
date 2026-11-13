@@ -238,5 +238,5 @@ testes fornecidos passam sem alteração. Testes adicionais são considerados.
 * \[x] `pytest -q` passa com os testes fornecidos.
 * \[x] `entrega/README-ENTREGA.md` preenchido.
 * \[x] Sessão + declaração apenas no caminho com IA; investigação no README-ENTREGA nos dois caminhos.
-* \[ ] Repositório público no GitHub com o projeto e o link enviado.
+* \[x] Repositório público no GitHub com o projeto e o link enviado.
 
