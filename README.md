@@ -232,11 +232,11 @@ testes fornecidos passam sem alteração. Testes adicionais são considerados.
 
 ## Checklist
 
-* \[ ] O CLI roda com Python 3.11 (`PYTHONPATH=src python -m onfly\_report ...`).
-* \[ ] O comando de execução gera `output/report.json` sem erro.
-* \[ ] O relatório segue o contrato acima.
-* \[ ] `pytest -q` passa com os testes fornecidos.
-* \[ ] `entrega/README-ENTREGA.md` preenchido.
-* \[ ] Sessão + declaração apenas no caminho com IA; investigação no README-ENTREGA nos dois caminhos.
+* \[x] O CLI roda com Python 3.11 (`PYTHONPATH=src python -m onfly\_report ...`).
+* \[x] O comando de execução gera `output/report.json` sem erro.
+* \[x] O relatório segue o contrato acima.
+* \[x] `pytest -q` passa com os testes fornecidos.
+* \[x] `entrega/README-ENTREGA.md` preenchido.
+* \[x] Sessão + declaração apenas no caminho com IA; investigação no README-ENTREGA nos dois caminhos.
 * \[ ] Repositório público no GitHub com o projeto e o link enviado.
 
